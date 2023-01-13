@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/brush.png</file>
+        <file>res/clear.png</file>
+        <file>res/cursor.png</file>
+        <file>res/diff.png</file>
+        <file>res/ellipse.gif</file>
+        <file>res/eraser.png</file>
+        <file>res/grid.png</file>
+        <file>res/grid2.png</file>
+        <file>res/hand.png</file>
+        <file>res/pen.png</file>
+        <file>res/point.png</file>
+        <file>res/polygon.png</file>
+        <file>res/rect.png</file>
+        <file>res/rule.png</file>
+        <file>res/side.png</file>
+        <file>res/camera.png</file>
+        <file>res/comparison.png</file>
+        <file>res/makeImage.png</file>
+        <file>res/openMode.png</file>
+        <file>res/statistics.png</file>
+        <file>res/downMove.png</file>
+        <file>res/leftMove.png</file>
+        <file>res/rightMove.png</file>
+        <file>res/upMove.png</file>
+        <file>res/centerCursor.png</file>
+        <file>res/AutomaticMatching.png</file>
+        <file>res/DeleteAllRect.png</file>
+        <file>res/about.png</file>
+    </qresource>
+</RCC>
